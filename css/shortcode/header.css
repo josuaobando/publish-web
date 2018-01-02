@@ -131,10 +131,13 @@ ul.dropdown > li:hover > ul.inside-menu {
 }
 .logo > a {display: inline-block;}
 .logo img{
+    margin-top: -22px!important;
+    width: 160px;
 	-webkit-transition: all 0.3s ease 0s;
 	transition: all 0.3s ease 0s;
 }
 .sticky .logo img {
+    margin-top: 0px!important;
 	-webkit-transition: all 0.3s ease 0s;
 	transition: all 0.3s ease 0s;
 	width: 160px;
